@@ -1,0 +1,43 @@
+/* google font */
+
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  /* Shared Style */
+  
+  /* Nav section strat*/
+  nav{
+    max-width: 1140px;
+    margin: 0 auto;
+    height: 27px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    align-items: center;
+
+  }
+
+  .nav-title{
+    font-weight: bolder;
+    font-size: 28px;
+  }
+  .nav-btn{
+    width: 200px;
+    height: 50px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+  }
+  /* Nav section end */
