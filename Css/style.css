@@ -20,6 +20,9 @@
   .heding-color{
     color: rgba(13, 19, 33, 0.70);
   }
+  .text-justify{
+    text-align: justify;
+  }
 
   /* Nav section strat*/
   nav{
@@ -165,4 +168,89 @@
 .inspire-p{
   text-align: center;
   margin-bottom: 24px;
+}
+.my-curent-target-part{
+  text-align: center;
+  margin-top: 25px;
+  width: 946px;
+  height: 113px;
+  margin: 0 auto;
+
+}
+.my-curent-target-part p{
+  margin-top: 10px;
+  margin-bottom: 100px;
+}
+.card-section{
+  width: 1140px;
+  height: 299px;
+  margin: 0 auto;
+  margin-top: 200px;
+
+}
+
+.card-templete{
+  width: 1092px;
+  height: 220px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  
+}
+.Card--1{
+  background-color: rgba(255, 76, 30, 0.05);
+  padding: 40px;
+  border-radius: 16px;
+  
+}
+.Card--2{
+  background-color: rgba(0, 76, 232, 0.05);
+  padding: 40px;
+  margin-left: 30px;
+  border-radius: 16px;
+}
+.Card--3{
+  background-color: rgba(255, 223, 0, 0.05);
+  padding: 40px;
+  margin-left: 30px;
+  border-radius: 16px;
+}
+.card-img{
+  margin: 50px;
+
+}
+.leran:visited{
+ color: black;
+}
+/* next-target-content */
+.next-target-content{
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+}
+.next-target-card-1{
+  max-width: 1020px;
+  height: 100px;
+  display: flex;
+ border: 1px solid red;
+ margin: 0 auto;
+ align-items: center;
+ box-shadow: 20px 20px 20px 20px rgb(248, 248, 248);
+ border-radius: 16px;
+ border: 1px solid rgb(225, 221, 221);
+ padding: 35px;
+ 
+}
+.next-target-card-1 img{
+  width: 110px;
+  height: 108px;
+  margin-right: 50px;
+  align-items: center;
+}
+.card-content{
+  width: 941.22px;
+  margin-top: 20px;
+  height: 139px;
 }
