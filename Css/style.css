@@ -138,3 +138,31 @@
   cursor: pointer;
   font-size: 20px;
 }
+.inspire-section{
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.inpire-video{
+  background-color: rgba(213, 216, 223, 0.2);
+  width: 1076px;
+  height: 550px;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px 10px white;
+  border: 1px solid rgb(223, 220, 220);
+}
+.ins-video{
+  border-radius: 8px;
+}
+.inspire-tittle{
+  font-weight: bolder;
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 24px;
+
+}
+.inspire-p{
+  text-align: center;
+  margin-bottom: 24px;
+}
