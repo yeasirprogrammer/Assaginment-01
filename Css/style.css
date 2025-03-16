@@ -14,6 +14,12 @@
   .dark-1{
     color: #0D1321;
   }
+  .dark-2{
+    color: #131414;
+  }
+  .heding-color{
+    color: rgba(13, 19, 33, 0.70);
+  }
 
   /* Nav section strat*/
   nav{
@@ -81,3 +87,54 @@
     font-weight: 600;
     margin-bottom: 54px;
   }
+  /* End banner Section */
+  .devlopment-section{
+    width: 1140px;
+    height: 1550px;
+    background-color: rgba(13, 19, 33, 0.02);
+    margin: 0 auto;
+
+  }
+.why-devlovment{
+    padding: 97px 80px;
+
+}
+.wd-content{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.devlop-card{
+  max-width: 1020px;
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 1.00);
+
+}
+.card-1{
+  display: flex;
+  justify-content: space-between;
+  padding: 48px;
+  border-radius: 16px;
+}
+.card-content{
+  width: 447px;
+  height: 219px;
+ 
+}
+.card-title{
+  font-weight: bold;
+  font-size: 24px;
+}
+.card-img{
+  width: 275px;
+  height: 240px;
+  margin-left: 200px;
+}
+.btn-leran{
+  height:47px; 
+  width: 171px;
+  border: 1px solid black;
+  background-color: white;
+  cursor: pointer;
+  font-size: 20px;
+}
